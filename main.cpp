@@ -6,8 +6,6 @@ int main() {
     cout << "Hello World\n\n\n";
     cout << "Hello World\n\n\n";
 
-cout << "Hello World\n\n\n";
-    cout << "Hello World\n\n\n";
 
 
 
